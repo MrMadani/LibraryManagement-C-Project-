@@ -1,0 +1,5 @@
+D:\AIUB-CS\8th semester\Library_Management_System\Interface\bin\Debug\Interface.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Interface\bin\Debug\Interface.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Interface\obj\Debug\Interface.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Interface\obj\Debug\Interface.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache

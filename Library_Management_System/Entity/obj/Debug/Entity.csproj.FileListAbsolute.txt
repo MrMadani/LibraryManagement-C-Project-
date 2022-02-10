@@ -1,0 +1,5 @@
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\bin\Debug\Entity.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\bin\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.dll
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.pdb
+D:\AIUB-CS\8th semester\Library_Management_System\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
